@@ -6,7 +6,7 @@ I'm Max, a 21-year-old developer proficient in English, German, and with a basic
 
 In the past, I worked with Eclipse for coding, but currently, I leverage the power of the latest IntelliJ Ultimate version to enhance my productivity and efficiency.
 
-## Current Project: Seriuxmod 🚀
+## Current Project: [Seriuxmod](https://github.com/seriuxmod) 🚀
 
 Seriuxmod is an ambitious Minecraft client project that brings exciting features to enhance the gaming experience. This custom Minecraft client is equipped with a plethora of exciting functionalities, including:
 
