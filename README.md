@@ -30,19 +30,23 @@ While Java remains my core competency, I'm continuously expanding my skill set b
 
 I want to extend my heartfelt gratitude to the following individuals for their unwavering support, dedication, and invaluable contributions to my projects:
 
-- 🌟 **NightSucht**: Your constant help and commitment to the success of Seriuxmod have been truly inspiring and invaluable. Your dedication to the project is nothing short of remarkable.
+- 🌟 **NightSucht**:
+  Your constant help and commitment to the success of Seriuxmod have been truly inspiring and invaluable. Your dedication to the project is nothing short of remarkable.
 
-- 🌟 **LarsAplay**: Thank you for your tireless efforts and assistance in making our visions a reality. Your expertise has greatly enriched our projects.
+- 🌟 **LarsAplay**:
+  Thank you for your tireless efforts and assistance in making our visions a reality. Your expertise has greatly enriched our projects.
 
-- 🌟 **Kunseru**: Your steadfast support and contributions have played a significant role in driving our ideas forward. Your involvement has been a true blessing.
+- 🌟 **Kunseru**:
+  Your steadfast support and contributions have played a significant role in driving our ideas forward. Your involvement has been a true blessing.
 
-- 🌟 **GoldenGamerLP**: Your creative approach and enthusiasm have elevated our projects to new heights. Your presence is truly cherished.
+- 🌟 **GoldenGamerLP**:
+  Your creative approach and enthusiasm have elevated our projects to new heights. Your presence is truly cherished.
 
-- 🌟 **Develgame**: I extend my heartfelt appreciation for your continual guidance and insightful advice, which has been instrumental in my growth as a developer.
+- 🌟 **gusosasi**:
+  Thank you for your patience and assistance in overcoming challenges together. Your dedication is commendable.
 
-- 🌟 **gusosasi**: Thank you for your patience and assistance in overcoming challenges together. Your dedication is commendable.
-
-- 🌟 **suqatri**: Your collaboration and active involvement have made our projects even more exciting. Thank you for being an integral part of the team.
+- 🌟 **suqatri**:
+  Your collaboration and active involvement have made our projects even more exciting. Thank you for being an integral part of the team.
 
 And a special thanks to:
 
@@ -50,6 +54,7 @@ And a special thanks to:
 - 🌟 **FelixTPG**
 - 🌟 **takkotakko**
 - 🌟 **FluffixYT**
+- 🌟 **Develgame**
 - 🌟 **charonxyz**
 - 🌟 **Gamingcode**
 - 🌟 **bngecre**
