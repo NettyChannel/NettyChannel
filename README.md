@@ -1,5 +1,3 @@
-**GitHub Readme - Max's Profile**
-
 ## About Me 🧑🏻‍💻
 
 I'm Max, a 21-year-old developer proficient in English, German, and with a basic understanding of Dutch. My coding journey began in 2016, and since then, I've immersed myself in the world of Java development. Over time, I've garnered extensive experience working with various databases and frameworks, including MySQL, MongoDB, ArangoDB, Redis, Hazelcast, RabbitMQ, Netty, Spring Boot, gRPC, Javalin, and more.
@@ -8,7 +6,7 @@ I'm Max, a 21-year-old developer proficient in English, German, and with a basic
 
 In the past, I worked with Eclipse for coding, but currently, I leverage the power of the latest IntelliJ Ultimate version to enhance my productivity and efficiency.
 
-## Current Project: Seriuxmod 🚀
+## Current Project: [Seriuxmod](https://github.com/seriuxmod) 🚀
 
 Seriuxmod is an ambitious Minecraft client project that brings exciting features to enhance the gaming experience. This custom Minecraft client is equipped with a plethora of exciting functionalities, including:
 
@@ -18,9 +16,7 @@ Seriuxmod is an ambitious Minecraft client project that brings exciting features
 - 🗣️ **Sprachassistent**: An intelligent voice assistant to aid you in navigating the client with ease.
 - 🚀 **Custom Launcher**: Enjoy seamless access to Seriuxmod with its dedicated custom launcher.
 
-Moreover, starting from late 2023 or early 2024, Seriuxmod will be complemented with its very own Minecraft Server Network. This network will host various thrilling minigames, providing an ideal platform for players to extensively test and enjoy the Seriuxmod client to the fullest. 
-
-The development of Seriuxmod and its server network takes place within the robust IntelliJ IDE. You can explore the code repository for this project [here](https://github.com/seriuxmod).
+Moreover, starting from late 2023 or early 2024, Seriuxmod will be complemented with its very own Minecraft Server Network. This network will host various thrilling minigames, providing an ideal platform for players to extensively test and enjoy the Seriuxmod client to the fullest. The development of Seriuxmod and its server network takes place within the robust IntelliJ IDE.
 
 ## Programming Languages 💻
 
@@ -50,17 +46,7 @@ I want to extend my heartfelt gratitude to the following individuals for their u
 
 And a special thanks to:
 
-- 🌟 **Nzxtermc**
-- 🌟 **FelixTPG**
-- 🌟 **takkotakko**
-- 🌟 **FluffixYT**
-- 🌟 **Develgame**
-- 🌟 **charonxyz**
-- 🌟 **Gamingcode**
-- 🌟 **bngecre**
-- 🌟 **CoderPVP**
-- 🌟 **CryCodes**
-- 🌟 **Lystx**
+**Nzxtermc**, **FelixTPG**, **takkotakko**, **FluffixYT**, **Develgame**, **charonxyz**, **Gamingcode**, **bngecre**, **CoderPVP**, **CryCodes**, **Lystx**
 
 Your dedication to our shared developer community and your contributions to various projects are genuinely appreciated. Together, we have achieved greatness, and I eagerly look forward to our continued collaboration on exciting new ventures.
 
