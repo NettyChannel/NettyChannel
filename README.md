@@ -45,10 +45,8 @@ I want to extend my heartfelt gratitude to the following individuals for their u
   Your collaboration and active involvement have made our projects even more exciting. Thank you for being an integral part of the team.
 
 And a special thanks to:
-``
-@Nzxtermc, @FelixTPG, @takkotakko, @FluffixYT, @Develgame, @charonxyz,
-@Gamingcode, @bngecre, @CoderPVP, @CryCodes, @Lystx, @NettyException
-``
+``@Nzxtermc``, ``@FelixTPG``, ``@takkotakko``, ``@FluffixYT``, ``@Develgame``, ``@charonxyz``,
+``@Gamingcode``, ``@bngecre``, ``@CoderPVP``, ``@CryCodes``, ``@Lystx``, ``@NettyException``
 
 Your dedication to our shared developer community and your contributions to various projects are genuinely appreciated. Together, we have achieved greatness, and I eagerly look forward to our continued collaboration on exciting new ventures.
 
