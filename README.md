@@ -1,45 +1,36 @@
-### 👋 Hello, I'm Max S.!
+## About Me 🧑🏻‍💻
 
-### About Me 🧑🏻‍💻
-I'm a 21-year-old developer with a passion for crafting exceptional software solutions. My journey into the world of programming began in 2016, and since then, I've honed my skills in the art of Java development. Over the years, I've delved into a myriad of databases and frameworks, including MySQL, MongoDB, ArangoDB, Redis, Hazelcast, RabbitMQ, Netty, Spring Boot, gRPC, Javalin, and many more.
+I'm Max, a 21-year-old developer with a passion for crafting exceptional software solutions. My journey into the world of programming began back in 2016, and since then, I've been immersed in the realm of Java development. Over the years, I've gained extensive experience working with various databases and frameworks, including MySQL, MongoDB, ArangoDB, Redis, Hazelcast, RabbitMQ, Netty, Spring Boot, gRPC, Javalin, and more.
 
-```
-`#0969DA`	The background color is `#ffffff` for light mode and `#000000` for dark mode.
-```
+## Development Tools 🛠️
 
-### Current Projects 🚀
+In the past, I utilized Eclipse for my coding endeavors, but currently, I harness the power of the latest IntelliJ Ultimate version to boost my productivity and efficiency.
 
-### ✨ Seriuxmod - Minecraft Client Project
-I'm currently engrossed in the exciting development of Seriuxmod, a Minecraft client project that aims to elevate the gaming experience to new heights. You can check out the code repository for this project here. https://github.com/seriuxmod
+## Current Projects 🚀
 
-### ✨ Seriux - Minecraft Server Network
-Additionally, I'm proud to be a driving force behind Seriux, a thriving Minecraft server network with an enthusiastic community. You can explore this project here. https://github.com/seriux
+Currently, I'm focused on two exciting projects that cater to the Minecraft community:
 
-### Entrepreneurial Journey 🏢
-I am a co-founder of Hoststudios, a forward-thinking company that fosters innovation and excellence in the realms of development and web hosting.
+✨ **Seriuxmod - Minecraft Client Project**
+I'm passionately working on Seriuxmod, a Minecraft client project aimed at elevating the gaming experience to new heights. The development takes place using the powerful IntelliJ IDE. You can check out the code repository for this project [here](https://github.com/seriuxmod).
 
-### Programming Languages 💻
-While Java remains my core competency, I'm always eager to expand my skill set. I'm actively learning and engaging with web development technologies, including PHP, CSS, and JavaScript.
+✨ **Seriux - Minecraft Server Network**
+In conjunction with Seriuxmod, I'm also devoted to the growth and success of Seriux, a thriving Minecraft server network. The project thrives thanks to the continuous support and assistance from NightSucht, who has been an invaluable collaborator throughout its implementation. You can explore the server network project [here](https://github.com/seriux).
 
-### Special Thanks 🙏
-I want to express my deep appreciation and gratitude to the following GitHub users for their unwavering support, inspiration, and collaboration:
+## Entrepreneurial Journey 🏢
 
-@nightsucht @shinymomoooyt @gusosasi @kunseru @truayt @goldengameryt @charon @suqatri @develgame
+In addition to my passion for programming, I'm a co-founder of Hoststudios, a forward-thinking company that fosters innovation and excellence in the realms of development and web hosting.
+
+## Programming Languages 💻
+
+Java remains my core competency, and I'm continuously expanding my skill set by exploring web development technologies, including PHP, CSS, and JavaScript.
+
+## Special Thanks 🙏
+
+A special mention goes to **NightSucht** for their unwavering support, constant collaboration, and valuable contributions to the realization of these projects. Your dedication has been instrumental in shaping their success!
+
 Thank you all for being an integral part of my coding journey! 🙌
 
 Let's connect and create something extraordinary together! 🚀
 
-<!--
-**NettyChannel/NettyChannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Note: The revised text incorporates your work history with Eclipse and current usage of IntelliJ Ultimate. It also consolidates the information about the Minecraft client project and server network while highlighting NightSucht's significant role. The tone remains professional with the addition of emojis to add a touch of friendliness and personality to the profile.
