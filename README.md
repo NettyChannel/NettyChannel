@@ -2,6 +2,7 @@
 
 I'm Max, a 21-year-old developer proficient in English, German, and with a basic understanding of Dutch. My coding journey began in 2016, and since then, I've immersed myself in the world of Java development. Over time, I've garnered extensive experience working with various databases and frameworks, including MySQL, MongoDB, ArangoDB, Redis, Hazelcast, RabbitMQ, Netty, Spring Boot, gRPC, Javalin, and more.
 
+---
 ## Development Tools 🛠️
 
 In the past, I worked with Eclipse for coding, but currently, I leverage the power of the latest IntelliJ Ultimate version to enhance my productivity and efficiency.
