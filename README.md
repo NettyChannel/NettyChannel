@@ -3,7 +3,9 @@
 ### About Me 🧑🏻‍💻
 I'm a 21-year-old developer with a passion for crafting exceptional software solutions. My journey into the world of programming began in 2016, and since then, I've honed my skills in the art of Java development. Over the years, I've delved into a myriad of databases and frameworks, including MySQL, MongoDB, ArangoDB, Redis, Hazelcast, RabbitMQ, Netty, Spring Boot, gRPC, Javalin, and many more.
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+```
+`#0969DA`	The background color is `#ffffff` for light mode and `#000000` for dark mode.
+```
 
 ### Current Projects 🚀
 
