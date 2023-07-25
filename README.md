@@ -1,10 +1,11 @@
-### 👋 Hello, I'm Max!
+### 👋 Hello, I'm Max S.!
 
-About Me 🧑🏻‍💻
+### About Me 🧑🏻‍💻
 I'm a 21-year-old developer with a passion for crafting exceptional software solutions. My journey into the world of programming began in 2016, and since then, I've honed my skills in the art of Java development. Over the years, I've delved into a myriad of databases and frameworks, including MySQL, MongoDB, ArangoDB, Redis, Hazelcast, RabbitMQ, Netty, Spring Boot, gRPC, Javalin, and many more.
 
 ### Current Projects 🚀
-✨ Seriuxmod - Minecraft Client Project
+
+### ✨ Seriuxmod - Minecraft Client Project
 I'm currently engrossed in the exciting development of Seriuxmod, a Minecraft client project that aims to elevate the gaming experience to new heights. You can check out the code repository for this project here.
 
 ### ✨ Seriux - Minecraft Server Network
@@ -19,15 +20,7 @@ While Java remains my core competency, I'm always eager to expand my skill set. 
 ### Special Thanks 🙏
 I want to express my deep appreciation and gratitude to the following GitHub users for their unwavering support, inspiration, and collaboration:
 
-NightSucht
-ShinyMomoooYT
-gusosasi
-Kunseru
-TruaYT
-GoldenGamerYT
-charon
-suqatri
-develgame
+@NightSucht, @ShinyMomoooYT, @gusosasi, @Kunseru, @TruaYT, @GoldenGamerYT, @charon, @suqatri, @develgame
 Thank you all for being an integral part of my coding journey! 🙌
 
 Let's connect and create something extraordinary together! 🚀
