@@ -1,4 +1,3 @@
-```
 ## About Me 🧑🏻‍💻
 
 I'm Max, a 21-year-old developer proficient in English, German, and with a basic understanding of Dutch. My coding journey began in 2016, and since then, I've immersed myself in the world of Java development. Over time, I've garnered extensive experience working with various databases and frameworks, including MySQL, MongoDB, ArangoDB, Redis, Hazelcast, RabbitMQ, Netty, Spring Boot, gRPC, Javalin, and more.
@@ -33,6 +32,5 @@ Thank you all for being an integral part of my coding journey! 🙌
 
 Let's connect and create something extraordinary together! 🚀
 
-```
 ---
 Note: The revised text now includes the information about Seriuxmod getting its own server network for minigames by late 2023 or early 2024. The tone remains professional with the addition of emojis to add a touch of friendliness and personality to the profile.
