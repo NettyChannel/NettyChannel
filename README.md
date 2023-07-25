@@ -11,14 +11,12 @@ In the past, I utilized Eclipse for my coding endeavors, but currently, I harnes
 Currently, I'm focused on two exciting projects that cater to the Minecraft community:
 
 ✨ **Seriuxmod - Minecraft Client Project**
+
 I'm passionately working on Seriuxmod, a Minecraft client project aimed at elevating the gaming experience to new heights. The development takes place using the powerful IntelliJ IDE. You can check out the code repository for this project [here](https://github.com/seriuxmod).
 
 ✨ **Seriux - Minecraft Server Network**
+
 In conjunction with Seriuxmod, I'm also devoted to the growth and success of Seriux, a thriving Minecraft server network. The project thrives thanks to the continuous support and assistance from NightSucht, who has been an invaluable collaborator throughout its implementation. You can explore the server network project [here](https://github.com/seriux).
-
-## Entrepreneurial Journey 🏢
-
-In addition to my passion for programming, I'm a co-founder of Hoststudios, a forward-thinking company that fosters innovation and excellence in the realms of development and web hosting.
 
 ## Programming Languages 💻
 
