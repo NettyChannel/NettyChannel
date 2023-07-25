@@ -36,6 +36,3 @@ In conclusion, I want to thank each and every one of you for your continuous sup
 Let's keep pushing the boundaries, creating innovative solutions, and making a positive impact in the world of coding! 🚀
 
 Thank you all once again! 🙏
-
----
-Note: The GitHub Readme has been revised to include the Thank You speech. It highlights the exceptional contributions of Nightsucht, LarsAplay, Kunseru, GoldenGamerLP, Develgame, gusosasi, and suqatri, while expressing gratitude to other developers as well. Emojis have been used to add a touch of positivity and appreciation to the text.
