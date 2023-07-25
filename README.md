@@ -6,10 +6,10 @@ I'm a 21-year-old developer with a passion for crafting exceptional software sol
 ### Current Projects 🚀
 
 ### ✨ Seriuxmod - Minecraft Client Project
-I'm currently engrossed in the exciting development of Seriuxmod, a Minecraft client project that aims to elevate the gaming experience to new heights. You can check out the code repository for this project here.
+I'm currently engrossed in the exciting development of Seriuxmod, a Minecraft client project that aims to elevate the gaming experience to new heights. You can check out the code repository for this project here. https://github.com/seriuxmod
 
 ### ✨ Seriux - Minecraft Server Network
-Additionally, I'm proud to be a driving force behind Seriux, a thriving Minecraft server network with an enthusiastic community. You can explore this project here.
+Additionally, I'm proud to be a driving force behind Seriux, a thriving Minecraft server network with an enthusiastic community. You can explore this project here. https://github.com/seriux
 
 ### Entrepreneurial Journey 🏢
 I am a co-founder of Hoststudios, a forward-thinking company that fosters innovation and excellence in the realms of development and web hosting.
@@ -20,7 +20,7 @@ While Java remains my core competency, I'm always eager to expand my skill set. 
 ### Special Thanks 🙏
 I want to express my deep appreciation and gratitude to the following GitHub users for their unwavering support, inspiration, and collaboration:
 
-@NightSucht, @ShinyMomoooYT, @gusosasi, @Kunseru, @TruaYT, @GoldenGamerYT, @charon, @suqatri, @develgame
+@nightsucht @shinymomoooyt @gusosasi @kunseru @truayt @goldengameryt @charon @suqatri @develgame
 Thank you all for being an integral part of my coding journey! 🙌
 
 Let's connect and create something extraordinary together! 🚀
