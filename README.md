@@ -16,7 +16,9 @@ Seriuxmod is an ambitious Minecraft client project that brings exciting features
 - 🗣️ **Sprachassistent**: An intelligent voice assistant to aid you in navigating the client with ease.
 - 🚀 **Custom Launcher**: Enjoy seamless access to Seriuxmod with its dedicated custom launcher.
 
-The development of Seriuxmod takes place within the robust IntelliJ IDE. You can explore the code repository for this project [here](https://github.com/seriuxmod).
+Moreover, starting from late 2023 or early 2024, Seriuxmod will be complemented with its very own Minecraft Server Network. This network will host various thrilling minigames, providing an ideal platform for players to extensively test and enjoy the Seriuxmod client to the fullest. 
+
+The development of Seriuxmod and its server network takes place within the robust IntelliJ IDE and VS Code. You can explore the code repository for this project [here](https://github.com/seriuxmod).
 
 ## Programming Languages 💻
 
@@ -31,4 +33,4 @@ Thank you all for being an integral part of my coding journey! 🙌
 Let's connect and create something extraordinary together! 🚀
 
 ---
-Note: The revised text includes your language skills and expands on the Seriuxmod project by highlighting its exciting features. The Minecraft server network part has been removed as requested. The tone remains professional with the addition of emojis to add a touch of friendliness and personality to the profile.
+Note: The revised text now includes the information about Seriuxmod getting its own server network for minigames by late 2023 or early 2024. The tone remains professional with the addition of emojis to add a touch of friendliness and personality to the profile.
